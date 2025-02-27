@@ -8,7 +8,7 @@ app.use(express.json());
 
 //GET route
 app.get('/', (req, res) => {
-    res.send('Hai batak');
+    res.send('Hai dunia dari express!!');
 });
 //POST route
 app.post('/data', (req, res) => {
