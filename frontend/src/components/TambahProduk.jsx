@@ -28,23 +28,26 @@ function TambahProduk() {
       <h2>Tambah Produk</h2>
       {error && <p style={{ color: 'red' }}>{error}</p>}
       <form onSubmit={handleSubmit}>
-        <div>
-          <label>Nama Produk: </label>
+        <div style={{ display: 'flex', alignItems: 'center', marginBottom: '10px' }}>
+          <label style={{ marginRight: '10px' }}>Nama Produk: </label>
           <input
             type="text"
             value={nama}
             onChange={(e) => setNama(e.target.value)}
+            style={{ marginRight: '10px' }}
           />
         </div>
-        <div>
-          <label>Harga: </label>
+        <div style={{ display: 'flex', alignItems: 'center', marginBottom: '10px' }}>
+          <label style={{ marginRight: '10px' }}>Harga: </label>
           <input
             type="number"
             value={harga}
             onChange={(e) => setHarga(e.target.value)}
+            style={{ marginRight: '10px' }}
           />
         </div>
         <button type="submit">Simpan</button>
+
       </form>
     </div>
   );
