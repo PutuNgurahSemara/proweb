@@ -1,10 +1,10 @@
-E-Commerce Sederhana 
+# E-Commerce Sederhana 
 
 Sebuah website E-commerce sederhana yang dibangun menggunakan JavaScript sebagai backend dan React JS sebagai frontend.
 
 
 
-✨ Fitur
+## ✨ Fitur
 
 Menampilkan data yang ada dalam database
 
@@ -16,7 +16,7 @@ Menghapus data yang berada di dalam database
 
 
 
-🛠 Instalasi
+## 🛠 Instalasi
 
 Clone repositori:
 
@@ -40,12 +40,12 @@ Cara menjalankan aplikasi frontend:
 
 
 
-🤝 Kontribusi
+## 🤝 Kontribusi
 
 Jika ingin berkontribusi, fork repositori ini dan buat pull request dengan perubahan yang diusulkan.
 
 
 
-📧 Kontak
+## 📧 Kontak
 
 Jika ada pertanyaan, hubungi saya di 10231075@student.itk.ac.id
