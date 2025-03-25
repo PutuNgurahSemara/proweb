@@ -141,18 +141,10 @@ Backend menyediakan endpoint API berikut:
 - `PUT /produk/:id` - Memperbarui produk
 - `DELETE /produk/:id` - Menghapus produk
 
-## 🎨 Screenshot
-
-![Dashboard](screenshots/dashboard.png)
-![Manajemen Produk](screenshots/product-management.png)
-![Modal Konfirmasi](screenshots/delete-confirmation.png)
 
 ## 👥 Tim Pengembang
 
 - [Putu Ngurah Semara](https://github.com/PutuNgurahSemara) - Frontend & Backend Developer (Bismillah)
 
 
-## 📚 Dokumentasi Lebih Lanjut
 
-- [Dokumentasi Frontend](frontend/README.md)
-- [Dokumentasi Backend](backend/README.md)
