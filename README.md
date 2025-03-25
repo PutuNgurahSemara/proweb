@@ -12,6 +12,46 @@ Aplikasi ini adalah dashboard admin untuk e-commerce yang memungkinkan pengguna 
 
 - Dashboard statistik dengan ringkasan data bisnis
 - Manajemen produk (tambah, lihat, edit, hapus)
+- *Tambah*
+
+  ![alt text](Add.png)
+
+   Saat hendak menambahkan barang namun pengguna tidak mengisi semua field maka akan muncul error
+
+   ![alt text](image.png)
+
+   Saat pengguna berhasil menambahkan barang maka akan muncul notifikasi success
+
+- *Lihat*
+
+![alt text](Read.png)
+
+   Saat pengguna berhasil menambahkan barang maka akan muncul di bagian kanan layar
+
+- *Hapus*
+
+![alt text](Delete.png)
+
+   Saat pengguna ingin menghapus maka tombol hapus akan menjadi merah dan ketika pengguna menekannya akan muncul sebuah kontifmasi
+
+![alt text](confrm.png)
+
+   Dan saat ditekan tombol ya maka data akan terhapus dan muncul notifikasi success
+
+![alt text](dellacc.png)
+
+- *Edit*
+
+![alt text](edit.png)
+
+   Ketika pengguna ingin mengedit maka akan muncul form edit dan pengguna dapat mengubah data yang diinginkan
+
+![alt text](nakedit.png)
+
+   Dan ketika sudah diubah maka akan muncul notifikasi success
+
+![alt text](accmin.png)
+
 - Antarmuka pengguna interaktif dengan animasi
 - Konfirmasi dan notifikasi untuk setiap aksi
 - Desain responsif untuk semua ukuran layar
