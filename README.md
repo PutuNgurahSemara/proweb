@@ -103,7 +103,7 @@ Backend menyediakan endpoint API berikut:
 
 ## 🎨 Screenshot
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](dashboard.png)
 ![Manajemen Produk](screenshots/product-management.png)
 ![Modal Konfirmasi](screenshots/delete-confirmation.png)
 
